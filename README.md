@@ -1,4 +1,5 @@
 # python-
 python code from coursera class
-python data structures
-python for everybody
+
+1) python for everybody
+2) python data structures
